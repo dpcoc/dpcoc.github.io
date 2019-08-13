@@ -1,1 +1,23 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: dpcoc.github.io
+title: Dublin-Powell Church of Christ
+email: elders@dublin-powellchurchofchrist.com
+author: Chris Cannon
+description: > #
+  Welcome to Dublin-Powell Church of Christ! We are striving to be the kind of Church described in the New Testament – a Church with heart-felt worship, Bible based teaching, love for each other, congregational singing, prayer, and compassionate care for all who are in need.
+  "And whatever you do in word or deed, do all in the name of the Lord Jesus, giving thanks through Him to God the Father."
+  Colossians 3:17
+copyright: 'Copyright &copy; 2017 Dublin-Powell Church of Christ All Rights Reserved.'
+credits: 'Credits: Created using Jekyll Themes and GitHub Pages.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
 theme: jekyll-theme-cayman
